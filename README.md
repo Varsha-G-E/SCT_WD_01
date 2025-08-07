@@ -26,6 +26,7 @@
 </head>
 <body class="bg-gray-50">
 
+
   <!-- 🔷 Stylish Navbar -->
   <nav id="navbar" class="fixed w-full top-0 left-0 z-50 bg-transparent text-white px-8 py-4 flex justify-between items-center transition duration-300">
     <div class="text-3xl font-bold tracking-wide">CreativeZone</div>
